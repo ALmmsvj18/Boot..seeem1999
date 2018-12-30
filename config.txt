@@ -1,5 +1,5 @@
-token=NTIwNTkyOTQ3Mjc2Njc3MTIw.DuwIIw.6W-7SYNXqwlRzSyTMMFR1IHvi-M
-owner=507974724912021515
+token=NTI4ODM2NjQzNTYyNTg2MTEy.DwoFqg.NkYPxvL8jZAshbpw97Np8hidUx4
+owner=528836643562586112
 prefix=!
 game=Type : !play | !help
 stayinchannel=true
